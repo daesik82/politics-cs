@@ -12,10 +12,10 @@ from tweepy.streaming import StreamListener
 
 
 # OAuth info
-ckey = "lpqzpNUsv55dh3nvOmUkR0YWz"
-csecret = "ywBsWjnxMKhs2ovxvob8UY70EIRZ6d79TJtft2ppaSBoMG0Q6m"
-atoken = "840060061879738369-4yd1S8JE5HCfQlq6MuIHjLJHofC7rN6"
-asecret = "VTPMdiQ8IIkKKFt3go9M17rUjVuOzNZFRSYLbuCMeOJGA"
+ckey = 
+csecret = 
+atoken = 
+asecret = 
 
 # Archiving location
 now = datetime.datetime.now()
